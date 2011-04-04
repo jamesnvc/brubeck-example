@@ -4,7 +4,7 @@
     <title>{{pageTitle}}</title>
   </head>
   <body>
-    <h1>{{pageTitle}}</h1>
-    <p>{{foo}}</p>
+    {{{yield}}}
   </body>
 </html>
+<!-- vim: set filetype=mustache : -->
