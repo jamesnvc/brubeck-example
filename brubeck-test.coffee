@@ -1,5 +1,4 @@
 brubeck = require 'brubeck'
-fs      = require 'fs'
 path    = require 'path'
 
 brubeck.templating.templateRoot = './templates'
